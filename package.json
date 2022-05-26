@@ -1,0 +1,19 @@
+{
+  "name": "uni-random",
+  "version": "1.0.1",
+  "description": "A simple javascript libary for generating random string",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/demonk3ng/generate-random.git"
+  },
+  "keywords": [
+    "random"
+  ],
+  "author": "demonk3ng <demonk3ng@gmail.com>",
+  "license": "ISC"
+}
