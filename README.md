@@ -1,4 +1,4 @@
-# generate-random
+# uni-random
 
 A simple javascript libary for generating random string
 
