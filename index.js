@@ -1,7 +1,7 @@
 /**
  * @param uniRandom is a simple javascript libary for generating random string
  * @param usage uniRandom() returns a random string 
- * @param options uniRandom({ length: number, charset: String || null, captitalization: lowercase || uppercase || null  }) returns a random string using object values
+ * @param options uniRandom({ length: number, charset: String || null, capitalization: lowercase || uppercase || null  }) returns a random string using object values
 */
 
 const uniRandom = (options)=> {
