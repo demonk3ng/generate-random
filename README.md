@@ -13,7 +13,7 @@ npm install uni-random
 ## Usage
 
 ```javascript
-var uniRandom = require("uni-random");
+import uniRandom from "uni-random";
 
 uniRandom();
 // >> "z3odKHvQpFoZZ0w"
