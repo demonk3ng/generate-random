@@ -21,7 +21,7 @@ uniRandom();
 uniRandom({
   length: 20,
   charset: 'alphanumeric',
-  captitalization: null
+  capitalization: null
 });
 // >> "CaIDjM0ZbH5smjiKFk9W"
 
